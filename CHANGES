@@ -1,0 +1,5 @@
+- Changed the default logos and icons to the Erix Cloud
+- Added the fork notice to the README.rst
+- Changed the logos and icons
+- Changed the default theme to include the Eridius green
+- The logo on the search page now points to the logo in /static for easier branding
